@@ -8,3 +8,11 @@ Completa los ejercicios en `actividad_6_002.md`.
 
 ## Entrega
 Sigue las instrucciones de GitHub Classroom para esta actividad.
+
+He creado las ramas solicitadas:
+
+- feature-license
+- feature-mensaje-bienvenida
+
+He añadido las actvidades y reflexiones requeridas
+
