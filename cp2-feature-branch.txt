@@ -1,0 +1,13 @@
+* feature-mensaje-bienvenida
+  main
+894f6f5 Añade mensaje de bienvenida en rama feature
+cb87f06 add CP #1
+419b437 Versión inicial de la aplicación
+2ba17e5 add deadline
+6d9d82e Initial commit
+
+
+
+Añade debajo una breve explicación (2–3 líneas) de qué has hecho en la rama feature-mensaje-bienvenida.
+
+Despues de crear esta rama de caracteristica, feature, he creado un fichero de texto para incluir dentro de ese fichero la salida de dos comandos que indican la rama en la que estamos actualmente y el historial de commits de esta rama
